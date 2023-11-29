@@ -1,0 +1,43 @@
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  cursor: pointer;
+  border: 1px solid #db5a04;
+  margin-top: 10px;
+}
+.dropdown-content div:hover {
+  cursor: pointer;
+  color: #db5a04 !important;
+}
+.card {
+  border-radius: 20px;
+  background: #fff;
+
+  box-shadow: 0px 0px 16px 0px rgba(165, 165, 165, 0.25);
+  border: none !important;
+}
+.card_head {
+  background-color: #db5a04 !important;
+  color: #fff;
+}
+.btn-outline-primary {
+  border-color: #db5a04 !important;
+  color: #db5a04 !important;
+}
+.btn-outline-primary:hover {
+  background-color: #db5a04 !important;
+  color: #fff !important;
+}
+.card_head h5 {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading_five {
+  color: #db5a04;
+}
+
+
